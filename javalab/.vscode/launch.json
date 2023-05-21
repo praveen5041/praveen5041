@@ -1,0 +1,679 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch BooChe",
+            "request": "launch",
+            "mainClass": "BooChe",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tests",
+            "request": "launch",
+            "mainClass": "Tests",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Strin_Add",
+            "request": "launch",
+            "mainClass": "Strin_Add",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Merge_intr",
+            "request": "launch",
+            "mainClass": "Merge_intr",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch binary_sum",
+            "request": "launch",
+            "mainClass": "binary_sum",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch RowCol_mat",
+            "request": "launch",
+            "mainClass": "RowCol_mat",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Splite_Array",
+            "request": "launch",
+            "mainClass": "Splite_Array",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch RBS",
+            "request": "launch",
+            "mainClass": "RBS",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Peak_mountain",
+            "request": "launch",
+            "mainClass": "Peak_mountain",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Order_Agnostic",
+            "request": "launch",
+            "mainClass": "Order_Agnostic",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch BST_infinite_Array",
+            "request": "launch",
+            "mainClass": "BST_infinite_Array",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch binary_serach",
+            "request": "launch",
+            "mainClass": "binary_serach",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Linear_Search",
+            "request": "launch",
+            "mainClass": "Linear_Search",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeIs",
+            "request": "launch",
+            "mainClass": "PrimeIs",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Varaible_arg",
+            "request": "launch",
+            "mainClass": "Varaible_arg",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch StraightL",
+            "request": "launch",
+            "mainClass": "StraightL",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch M_arrows",
+            "request": "launch",
+            "mainClass": "M_arrows",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Count_freq",
+            "request": "launch",
+            "mainClass": "Count_freq",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch LexicOrd",
+            "request": "launch",
+            "mainClass": "LexicOrd",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Detect_Cap",
+            "request": "launch",
+            "mainClass": "Detect_Cap",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hash_map_Pattern",
+            "request": "launch",
+            "mainClass": "Hash_map_Pattern",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Maximun_Path",
+            "request": "launch",
+            "mainClass": "Maximun_Path",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Min_heap",
+            "request": "launch",
+            "mainClass": "Min_heap",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prior",
+            "request": "launch",
+            "mainClass": "Prior",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hash_map",
+            "request": "launch",
+            "mainClass": "Hash_map",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mergedsort",
+            "request": "launch",
+            "mainClass": "Mergedsort",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch linked_pos",
+            "request": "launch",
+            "mainClass": "linked_pos",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interview",
+            "request": "launch",
+            "mainClass": "Interview",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Traversing",
+            "request": "launch",
+            "mainClass": "Traversing",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringToken",
+            "request": "launch",
+            "mainClass": "StringToken",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringBuffer",
+            "request": "launch",
+            "mainClass": "StringBuffer",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch BSTjcf",
+            "request": "launch",
+            "mainClass": "BSTjcf",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch BSTyt",
+            "request": "launch",
+            "mainClass": "BSTyt",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bst",
+            "request": "launch",
+            "mainClass": "Bst",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bst1",
+            "request": "launch",
+            "mainClass": "Bst1",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch BstSearch",
+            "request": "launch",
+            "mainClass": "BstSearch",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Btree",
+            "request": "launch",
+            "mainClass": "Btree",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch CollectOne",
+            "request": "launch",
+            "mainClass": "CollectOne",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Comprbl",
+            "request": "launch",
+            "mainClass": "Comprbl",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Comprtr",
+            "request": "launch",
+            "mainClass": "Comprtr",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Constr",
+            "request": "launch",
+            "mainClass": "Constr",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Contest",
+            "request": "launch",
+            "mainClass": "Contest",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Deadlock",
+            "request": "launch",
+            "mainClass": "Deadlock",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Eight",
+            "request": "launch",
+            "mainClass": "Eight",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExcepTwo",
+            "request": "launch",
+            "mainClass": "ExcepTwo",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Excepfour",
+            "request": "launch",
+            "mainClass": "Excepfour",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptFive",
+            "request": "launch",
+            "mainClass": "ExceptFive",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptFour",
+            "request": "launch",
+            "mainClass": "ExceptFour",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptOne",
+            "request": "launch",
+            "mainClass": "ExceptOne",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptThree",
+            "request": "launch",
+            "mainClass": "ExceptThree",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fifth",
+            "request": "launch",
+            "mainClass": "Fifth",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch First",
+            "request": "launch",
+            "mainClass": "First",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fourth",
+            "request": "launch",
+            "mainClass": "Fourth",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Gitbranch",
+            "request": "launch",
+            "mainClass": "Gitbranch",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hi",
+            "request": "launch",
+            "mainClass": "Hi",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterTrdcom",
+            "request": "launch",
+            "mainClass": "InterTrdcom",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch LInked_list2",
+            "request": "launch",
+            "mainClass": "LInked_list2",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Linkedlist",
+            "request": "launch",
+            "mainClass": "Linkedlist",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lists",
+            "request": "launch",
+            "mainClass": "Lists",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Maps",
+            "request": "launch",
+            "mainClass": "Maps",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mcq",
+            "request": "launch",
+            "mainClass": "Mcq",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Method1",
+            "request": "launch",
+            "mainClass": "Method1",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Method2",
+            "request": "launch",
+            "mainClass": "Method2",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinHeap",
+            "request": "launch",
+            "mainClass": "MinHeap",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Nine",
+            "request": "launch",
+            "mainClass": "Nine",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueDsa",
+            "request": "launch",
+            "mainClass": "QueueDsa",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Queues",
+            "request": "launch",
+            "mainClass": "Queues",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Queues3",
+            "request": "launch",
+            "mainClass": "Queues3",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueuesL",
+            "request": "launch",
+            "mainClass": "QueuesL",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Searching",
+            "request": "launch",
+            "mainClass": "Searching",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Second",
+            "request": "launch",
+            "mainClass": "Second",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sets",
+            "request": "launch",
+            "mainClass": "Sets",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch SetsIntersection",
+            "request": "launch",
+            "mainClass": "SetsIntersection",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Seven",
+            "request": "launch",
+            "mainClass": "Seven",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sixth",
+            "request": "launch",
+            "mainClass": "Sixth",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sort",
+            "request": "launch",
+            "mainClass": "Sort",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortHeap",
+            "request": "launch",
+            "mainClass": "SortHeap",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortInsertion",
+            "request": "launch",
+            "mainClass": "SortInsertion",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortJCF",
+            "request": "launch",
+            "mainClass": "SortJCF",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortMerge",
+            "request": "launch",
+            "mainClass": "SortMerge",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortQuick",
+            "request": "launch",
+            "mainClass": "SortQuick",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortSelection",
+            "request": "launch",
+            "mainClass": "SortSelection",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sortbubble",
+            "request": "launch",
+            "mainClass": "Sortbubble",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch SpecialChar_r",
+            "request": "launch",
+            "mainClass": "SpecialChar_r",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stacks",
+            "request": "launch",
+            "mainClass": "Stacks",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stacks2",
+            "request": "launch",
+            "mainClass": "Stacks2",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stacks3",
+            "request": "launch",
+            "mainClass": "Stacks3",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stirngs",
+            "request": "launch",
+            "mainClass": "Stirngs",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Third",
+            "request": "launch",
+            "mainClass": "Third",
+            "projectName": "javalab_1051eae6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadCycle",
+            "request": "launch",
+            "mainClass": "ThreadCycle",
+            "projectName": "javalab_1051eae6"
+        }
+    ]
+}

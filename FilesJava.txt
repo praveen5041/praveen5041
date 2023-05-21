@@ -1,0 +1,83 @@
+FileInputStream  class and methods
+	public int avilable()
+	public void close()
+	public abstract int read()
+	public int read(byte[] )
+	public int read(byte[] b, int a)
+	public boolean markSupported()
+	public void mark()
+	public void set()
+	public long skip()
+
+
+
+OutputStream class methods:
+
+
+	public void close()
+	public abstract void write()
+	public void write(byte[] b)
+	public void write(byte[] b, int a)
+	public void flush()	
+	
+
+
+STEPS TO WRITE AND READ DATA INTO FILES:
+
+	WRITING DATA INTO FILE
+		->import java.io (package)
+		->creat FileOutputStream Object
+		->invoke fos.write()
+		->invoke fos.flush()
+		->invoke fos.close()
+	Handle the exceptions
+		filenotfound exception and ioexception
+
+
+STEPS TO READ DATA FROM FILES:
+
+	import java.io package
+	create fileInputStream object
+	invoke fis.read()
+	invoke fis.close()
+	Handle EXceptions
+
+
+WORKING WITH FILEOTPUTSTREAM AND FILEINPUTSTREAM:
+
+	what is the fileoutputstream?
+	why 
+	when should use
+	how can we create fileoutputstream object
+
+CONSTRUCTORS IN fileoutputstream:
+
+	->FileOutputStream(String name)
+	->FileOutpuStream(File file)
+	->FiileOuputStream(File file,boolean append)
+	->FileOutputStream(String name , boolean append)
+	->FileOutputStream(FileDescription fd)
+
+WORKING WITH FILEINPUTSTREAM:
+	
+	what,why,when,how
+	
+	Constructors in fileinputstream
+
+		->public FileInputstrream(String name)
+		->public FileInputStream(File file)
+		->public FileInputStream(FileDescrptor fd)
+
+
+7 ways to copy data into another file dynamically
+
+	->Scanner calss
+	->BufferedReader
+	->CommandLine Args
+	->Console
+	->DataOutputStream calss
+	->System properties
+	->GUI AWT/SWING
+
+	
+	
